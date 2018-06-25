@@ -1,0 +1,57 @@
+hr{
+    height: 5px;
+    background-color: #7d97ad;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    padding-bottom:2%; 
+}
+p{
+    color:#2d3c59;
+}
+.logo{
+    height: 100%;
+    width: 15%;
+    vertical-align: middle;
+    text-align: left;
+    padding-bottom: auto;
+    padding-top: 8%
+}
+.txt_right{
+    text-align:right;
+}
+.name{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 64px;
+    text-transform: uppercase;
+    color: #2d3c59;
+}
+.subtittle{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300 bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align:right;
+    color: #2d3c59;
+}
+.feat{
+    color:#7d97ad;
+    font-size:36px;
+    padding-left:10px; 
+}
+.center{
+    text-align: center;
+}
+.work{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300 bold;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align:right;
+    color: #2d3c59;
+}
+.img{
+    width: 100%;
+    height: auto;
+}
